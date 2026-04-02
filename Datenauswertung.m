@@ -2,7 +2,7 @@
 clear; close all; clc;
 
 % 1. Datei festlegen
-dateiname = 'OBR_Lauf.mvnx'; ze 
+dateiname = 'OBR_NV_run_section.mvnx';  
 
 try
     %% 2. Analysen aufrufen
